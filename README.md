@@ -13,7 +13,12 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
+
+**Monitoring & Logging**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) 
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) 
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -27,9 +32,9 @@
 
 ## 📊 GitHub Stats  
 
-![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight)  
+![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranrajeev1&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranrajeev1&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=kiranrajeev1&theme=tokyonight)  
 
 ---
 
@@ -43,7 +48,13 @@
 
 ## 📫 Connect with Me  
 
-📧 [Email](mailto:kiranrajeev2003@gmail.com) • 💼 [LinkedIn](https://linkedin.com/in/kiran-rajeevkv) • 🌍 Bengaluru, India  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-rajeevkv) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiranrajeev2003@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiranrajeev1)  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=kiranrajeev1&color=blue&style=flat-square)
 
 ---
 
