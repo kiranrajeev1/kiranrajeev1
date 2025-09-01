@@ -1,4 +1,5 @@
-# (https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966) Hi, I'm Kiran  
+# ![Waving Hand](https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)
+ Hi, I'm Kiran  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+IaC;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
