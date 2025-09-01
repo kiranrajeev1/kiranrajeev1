@@ -9,8 +9,11 @@
 My current focus is on:
 
 ☁️ Designing and experimenting with AWS services to build scalable cloud solutions.
+
 🐳 Containerizing applications using Docker & Kubernetes for reliability and portability.
+
 🚀 Creating CI/CD pipelines to automate builds, testing, and deployments.
+
 📝 Provisioning infrastructure with Terraform following Infrastructure-as-Code principles.
 
 ---
