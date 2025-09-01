@@ -69,7 +69,6 @@ My current focus is on:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiranrajeev1)  
 
 ---
-![Kiran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kiranrajeev1&theme=tokyo-night)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kiranrajeev1&color=blue&style=flat-square)
 
