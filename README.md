@@ -40,9 +40,9 @@
 
 ## 🚀 Featured Projects  
 
-- 🔹 [DevOps for Real-Time Chat Application (Chatty)](https://github.com/yourusername/chatty-devops)  
-- 🔹 [DevOps for MERN Movie Recommendation App](https://github.com/yourusername/movie-recommendation-devops)  
-- 🔹 [Flashcard Quest – MERN Learning App](https://github.com/yourusername/flashcard-quest)  
+- 🔹 [DevOps for Real-Time Chat Application (Chatty)](https://github.com/kiranrajeev1/DevSecOps-chat-app.git)  
+- 🔹 [DevOps for MERN Movie Recommendation App](https://github.com/kiranrajeev1/DevSecOps-MERN-MovieApp.git)  
+- 🔹 [Flashcard Quest – MERN Learning App](https://github.com/kiranrajeev1/Flashcard-Quest-MERN-App.git)  
 
 ---
 
