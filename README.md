@@ -4,17 +4,14 @@
 
 ---
 
-I'm a passionate Cloud & DevOps enthusiast focused on learning by building. I'm actively honing my skills in cloud automation, containerization, and Infrastructure-as-Code through hands-on projects.
+🚀 I’m a Cloud & DevOps enthusiast passionate about building scalable, secure, and automated cloud solutions. I specialize in AWS, Kubernetes, CI/CD, and Infrastructure-as-Code, and I love applying what I learn by building real-world projects.
 
 My current focus is on:
 
-☁️ Exploring and building with AWS services.
-
-🐳 Containerizing applications using Docker & Kubernetes.
-
-🚀 Creating CI/CD pipelines to automate workflows.
-
-📝 Provisioning infrastructure with Terraform.
+☁️ Designing and experimenting with AWS services to build scalable cloud solutions.
+🐳 Containerizing applications using Docker & Kubernetes for reliability and portability.
+🚀 Creating CI/CD pipelines to automate builds, testing, and deployments.
+📝 Provisioning infrastructure with Terraform following Infrastructure-as-Code principles.
 
 ---
 
